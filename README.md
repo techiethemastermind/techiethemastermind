@@ -1,16 +1,18 @@
+# Full Stack Web Developer
+
 ### Hi there 👋
 ### Thank you for visiting my GitHub.
-## I am currently working as a full-stack developer.
-## I built many web applications including e-commerce, LMS, CMS, and SAAS platforms.
+### I am currently working as a full-stack developer.
+### I built many web applications including e-commerce, LMS, CMS, and SAAS platforms.
 
 ## My main skill is: 
 
-*** Front-End ***
-✅ jQuery & Bootstrap, SCSS, JavaScript.
-✅ React.js, Redux
-✅ Vue.js, Vue2, Vue3, Vuex
-✅ Angular.js, Angular2+
-✅ D3.js, Three.js
+- *** Front-End ***
+- ✅ jQuery & Bootstrap, SCSS, JavaScript.
+- ✅ React.js, Redux
+- ✅ Vue.js, Vue2, Vue3, Vuex
+- ✅ Angular.js, Angular2+
+- ✅ D3.js, Three.js
 
 *** Back-End ***
 ✅ PHP & PHP frameworks - Laravel, Symfony, Codeigniter
