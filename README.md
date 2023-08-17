@@ -5,4 +5,23 @@
 ### 🛠️ Skills
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+#### Languages
+typescript javascript python dart
+
+Front-End Development
+next react redux react-router material-ui pwa chakra-ui tailwind-css storybook graphql three.js html css sass bootstrap jquery
+
+Block-Chain Development
+ethereum web3 solidity
+
+Cross Platform Development
+flutter electron
+
+Backend as a Service (BaaS)
+firebase vercel heroku netlify
+
+Design Tools
+adobe-xd figma canva
+
+Testing
+mocha jest pytest
