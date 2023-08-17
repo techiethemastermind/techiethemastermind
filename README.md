@@ -30,3 +30,6 @@
 - ✅ Smart contract, Solidity, Web3.js, Ethers.js
 - ✅ ERC20, ERC721, ERC1155
 - ✅ Ethereum, Solana, Algorand, Polygon
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
