@@ -40,6 +40,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=techiethemastermind&show_icons=true&theme=dark#gh-dark-mode-only)
 
 ### 🔗 Links
-<a href="https://sergey-terekhov.netlify.app/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
-<a href="https://www.linkedin.com/in/sergey-terekhov-6a7a79244/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://join.skype.com/invite/JWEnqpgls0XX">![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)</a>
+<a href="https://sergey-terekhov.netlify.app/" target="_blank" >![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
+<a href="https://www.linkedin.com/in/sergey-terekhov-6a7a79244/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://join.skype.com/invite/JWEnqpgls0XX" target="_blank">![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)</a>
