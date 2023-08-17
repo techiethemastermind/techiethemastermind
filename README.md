@@ -41,3 +41,4 @@
 
 ### 🔗 Links
 <a href="https://www.linkedin.com/in/sergey-terekhov-6a7a79244/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://join.skype.com/invite/JWEnqpgls0XX">![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)</a>
