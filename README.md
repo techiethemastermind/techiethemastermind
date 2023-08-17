@@ -22,20 +22,9 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-next react redux react-router material-ui pwa chakra-ui tailwind-css storybook graphql three.js html css sass bootstrap jquery
+#### Back-End Development
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-Block-Chain Development
-ethereum web3 solidity
-
-Cross Platform Development
-flutter electron
-
-Backend as a Service (BaaS)
-firebase vercel heroku netlify
-
-Design Tools
-adobe-xd figma canva
-
-Testing
-mocha jest pytest
