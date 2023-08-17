@@ -40,6 +40,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=techiethemastermind&show_icons=true&theme=dark#gh-dark-mode-only)
 
 ### 🔗 Links
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/sergey-terekhov-6a7a79244/)"> 
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/sergey-terekhov-6a7a79244/)">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
